@@ -21,7 +21,7 @@ This project focuses on optimizing inventory management and mitigating financial
 ---
 
 ## 🖼️ Dashboard Preview
-![Inventory Dashboard](Screenshot 2026-04-27 002856.png)
+![Inventory Dashboard](Screenshot%202026-04-27%20002856.png)
 *(Note: Replace the link above with your actual image path after uploading it to GitHub)*
 
 ---
