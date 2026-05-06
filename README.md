@@ -26,7 +26,8 @@ This project focuses on optimizing inventory management and mitigating financial
 
 ---
 
-## 📁 Project Structure
-* `Data/`: Contains the raw/cleaned datasets.
-* `Reports/`: The Power BI (.pbix) file.
-* `Screenshots/`: High-resolution images of the dashboard.
+## 📁 Project Structure & Files
+
+- 📂 **[Inventory.xlsx](Inventory.xlsx)**: This is the **Main Analysis & Dashboard** file. It contains the cleaned data, pivot tables, and the final interactive dashboard.
+- 📄 **[Data Inventory.csv](Data%20Inventory.csv)**: This is the **Raw Dataset** used as the source for the analysis.
+- 🖼️ **[Dashboard Preview](Screenshot%202026-04-27%20002856.png)**: A high-resolution image of the final dashboard for a quick overview.
