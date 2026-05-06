@@ -1,7 +1,7 @@
 # Inventory Strategic & Risk Management Dashboard 📊
 
 ## 📌 Project Overview
-This project focuses on optimizing inventory management and mitigating financial risks associated with stock expiration and disposal delays. Using **Power BI** and **Excel**, I developed a strategic dashboard to provide a real-time overview of stock health, supplier performance, and warehouse efficiency.
+This project focuses on optimizing inventory management and mitigating financial risks associated with stock expiration and disposal delays. Using  **Excel**, I developed a strategic dashboard to provide a real-time overview of stock health, supplier performance, and warehouse efficiency.
 
 ---
 
